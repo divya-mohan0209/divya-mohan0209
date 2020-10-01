@@ -1,6 +1,5 @@
 **Hello There!** :wave:
 
-- :snake: Currently working on mini projects to level up my Python dev knowledge. 
 - On the Google Season of Docs' 2020 with **CERN HSF** working on Rucio
 - Recognized as an **AWS Community Builder.**
 - :books: I'm learning Javascript (brushing up, really!) and some Serverless tech - AWS Lambda, SNS, API Gateway (you get the drift! :wink:)

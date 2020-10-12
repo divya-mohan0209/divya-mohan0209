@@ -1,10 +1,11 @@
 **Hello There!** :wave:
 
-- On the Google Season of Docs' 2020 with **CERN HSF** working on Rucio
-- Recognized as an **AWS Community Builder.**
-- :books: I'm learning Javascript (brushing up, really!) and some Serverless tech - AWS Lambda, SNS, API Gateway (you get the drift! :wink:)
-- :cloud: I'd like to collaborate on some really cool serverless projects.
-- :thought_balloon: **Ask me about:**  I'm a systems afficionado, so probably systems? And oh, documentation!
-- :email: Reach me at [Twitter](https://twitter.com/Divya_Mohan02) OR [Linkedin](https://www.linkedin.com/in/divya-mohan0209/)
+I'm a systems nerd who codes occasionally and **LOVES** great documentation. With the tendency to treat my life as an ongoing project in learning, my latest exploits are:
 
+- Working with **CERN-HSF** on **Google Season of Docs** to modify & restructure their documentation
+- Leveraging AWS Amplify & Device Farm whilst brushing up on ReactJS 
+- On the systems side, I am delving a bit more into the kernel of the Linux distro & learning k8s. 
 
+I also do some non-code, non-system things occasionally & you can find them [here](https://github.com/divya-mohan0209/talks)
+
+I love reading books & long walks. Also, my cat (who demanded he be mentioned here). I work at [HSBC](https://www.hsbc.co.in/) as a Senior Systems Admin. If you'd like to talk about any of these or AMA (within reason), I'm glad to connect over [Twitter](https://twitter.com/Divya_Mohan02).

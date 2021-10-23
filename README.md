@@ -4,9 +4,9 @@
 
 <p align="center">I've also worked with <a href="https://home.cern/">CERN</a> on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
 
-<p align="center">A CNCF ambassador, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
+<p align="center">A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
 
-<p align="center">At my day job, I work at HSBC leading a team of system engineers. Having amassed significant IT experience over 8+ years, I am proficient in Linux/Middleware administration, HTML, CSS, Javascript, container, & container orchestration technologies. </p>
+<p align="center">At my day job, I work at HSBC leading a team of system engineers. Having amassed significant IT experience over 8+ years, I am proficient in Linux & Middleware administration, HTML, CSS, Javascript, container, & container orchestration technologies. </p>
 
 ---
  

@@ -1,51 +1,65 @@
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/divya-mohan0209/count.svg" />
+  
+<p><b> Hello there, I am Divya Mohan!</b></p>  
 
-<p align="center">A seasoned IT professional & community builder, I believe open source is the way ahead & ANYONE (even, you!) could make an impact by contributing!</p>
+<p>A seasoned IT professional & community builder, I believe open source is the way ahead & ANYONE (even, you!) could make an impact by contributing!</p>
 
-<p align="center"><b>I'm extremely passionate about great documentation & co-chair efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
+<p><b>I'm extremely passionate about great documentation & co-chair efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
 
-<p align="center">I've also worked with <a href="https://home.cern/">CERN</a> on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
+<p>I've also worked with <a href="https://home.cern/">CERN</a> on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
 
-<p align="center">A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
+<p>A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
 
-<p align="center">At my day job, I work at HSBC leading a team of system engineers.</p>
+<p>At my day job, I work at HSBC leading a team of system engineers.</p>
 
 ---
-### My toolkit: 🛠
+### Come, say hello!
 
+<p>
+  <a href="http://twitter.com/Divya_Mohan02">
+    <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+</p>
+
+<p>
+  <a href="http://linkedin.com/in/divya-mohan0209">
+    <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+</p>
+
+<p>
+ <a href="mailto:divya.mohan0209@gmail.com">
+  <img src="https://img.shields.io/badge/divya.mohan0209@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+</p>
+
+---
+
+<h2> Languages 🛠
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">  
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">  
+
+</h2>
+
+<h2> Operating Systems
 <img src="https://img.shields.io/badge/linux%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white"> 
-<img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   
+<img src="https://img.shields.io/badge/windows%20-%2314354C.svg?&style=for-the-badge&logo=windows&logoColor=white"> 
+
+</h2>
+
+<h2> Tools & technologies
+<img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue"> 
 <img src="https://img.shields.io/badge/docusaurus%20-%2314354C.svg?&style=for-the-badge&logo=docusaurus&logoColor=white"> 
 <img src="https://img.shields.io/badge/sphinx%20-%2314354C.svg?&style=for-the-badge&logo=sphinx&logoColor=white"> 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ibm-websphere%20-%2314354C.svg?&style=for-the-badge&logo=ibm-websphere&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-weblogic%20-%2314354C.svg?&style=for-the-badge&logo=oracle-weblogic&logoColor=white">
 <img src="https://img.shields.io/badge/apache%20-%2314354C.svg?&style=for-the-badge&logo=apache&logoColor=white">
----
- 
-<p align="center">
-  <a href="http://twitter.com/Divya_Mohan02">
-    <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="http://linkedin.com/in/divya-mohan0209">
-    <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-</p>
-
-<p align="center">
- <a href="mailto:divya.mohan0209@gmail.com">
-  <img src="https://img.shields.io/badge/divya.mohan0209@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-</p>
-  
+ </h2>
 
 ---
 
@@ -54,6 +68,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-mohan0209&theme=tokyonight" />
 </p>
 
+---
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>

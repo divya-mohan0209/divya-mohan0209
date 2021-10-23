@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td><a target="_blank" href="https://github.com/bari12">Martin Barisits, CERN</a></td>
-    <td>Ms. Mohan is a very capable and passionate software engineers, with a well-organised and dedicated work approach. She demonstrated her knowledge, skill, and intelligend in designing and building an automated documentation system which will be used for our open source project for years to come. She prove not only her technical capabilities but first and foremost her excellent communication and organisation skills. I was especially impressed by her work ethic and her ability to work independently.</td>
+    <td>Ms. Mohan is a very capable and passionate software engineer, with a well-organised and dedicated work approach. She demonstrated her knowledge, skill, and intelligence in designing and building an automated documentation system which will be used for our open source project for years to come. She proved not only her technical capabilities but first and foremost her excellent communication and organisation skills. I was especially impressed by her work ethic and her ability to work independently.</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/andy-kirby-1a1294146/">Andy Kirby, HSBC</a></td>

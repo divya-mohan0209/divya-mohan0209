@@ -1,12 +1,22 @@
 <p align="center">I believe Open Source is for EVERYONE. Irrespective of the career level they are at or their coding proficiency.</p>
 
-<p align="center"><b>Passionate about great documentation, I co-chair documentation efforts for <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> & <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members>LitmusChaos</a>.</a></b></p>
+<p align="center"><b>Passionate about great documentation, I co-chair documentation efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
 
-<p align="center">A CNCF ambassador, I have also spoken at various <a href=https://github.com/divya-mohan0209/talks>global events</a> about my (mis)adventures in the cloud native space & <a href="https://github.com/divya-mohan0209/published-content>published content</a> on the web.</p>
+<p align="center">I've also worked with CERN on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
 
+<p align="center">A CNCF ambassador, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
+
+---
+ 
 <p align="center">
   <a href="http://twitter.com/Divya_Mohan02">
     <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://linkedin.com/in/divya-mohan0209">
+    <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -27,11 +37,11 @@
     <th>Message</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://github.com/bari12">Martin Barisits</a></td>
+    <td><a target="_blank" href="https://github.com/bari12">Martin Barisits, CERN</a></td>
     <td>Ms. Mohan is a very capable and passionate software engineers, with a well-organised and dedicated work approach. She demonstrated her knowledge, skill, and intelligend in designing and building an automated documentation system which will be used for our open source project for years to come. She prove not only her technical capabilities but first and foremost her excellent communication and organisation skills. I was especially impressed by her work ethic and her ability to work independently.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://www.linkedin.com/in/andy-kirby-1a1294146/">Andy Kirby</a></td>
+    <td><a target="_blank" href="https://www.linkedin.com/in/andy-kirby-1a1294146/">Andy Kirby, HSBC</a></td>
     <td>I have worked with Divya for the last 3 years in a Production Support L1/2 --> L3 relationship. I have always found her to be technically excellent and very reliable. Divya has always shown herself to be hungry to learn new skills and take ownership.</td>
   </tr>
   <tr>
@@ -39,7 +49,7 @@
     <td>Very informative talk by @Divya_Mohan02 about K8s Release Shadow Program at #KubeCon. Thank you</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/k_gamanji/status/1448332202463350791">Katie Gamanji</a></td>
+    <td><a target="_blank" href="https://twitter.com/k_gamanji/status/1448332202463350791">Katie Gamanji, CNCF</a></td>
     <td>It was an absolute pleasure to have worked with you on the KCNA creation, Divya!.</td>
   </tr>
 </table>

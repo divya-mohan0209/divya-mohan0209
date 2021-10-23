@@ -1,4 +1,4 @@
- ### Profile Views :<br>
+ ## Profile Views :
   <img src="https://profile-counter.glitch.me/divya-mohan0209/count.svg" />
   
 <p><b> Hello there, I am Divya Mohan!</b></p>  
@@ -14,7 +14,7 @@
 <p>At my day job, I work at HSBC leading a team of system engineers.</p>
 
 ---
-### Come, say hello!
+## Come, say hello! 
 
 <p>
   <a href="http://twitter.com/Divya_Mohan02">
@@ -70,8 +70,7 @@
 
 ---
 
-<h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1>
+<h2>Testimonials</h2>
 
 <table>
   <tr>

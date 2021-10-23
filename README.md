@@ -7,7 +7,7 @@
 
 <p><b>I'm extremely passionate about great documentation & co-chair efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
 
-<p>I've also worked with <a href="https://home.cern/">CERN</a> on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
+<p>I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
 
 <p>A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
 

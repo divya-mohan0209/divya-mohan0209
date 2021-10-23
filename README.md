@@ -1,6 +1,6 @@
-<p align="center">I believe Open Source is for EVERYONE. Irrespective of the career level they are at or their coding proficiency.</p>
+<p align="center">A seasoned IT professional & community builder, I believe open source is the way ahead & ANYONE (even, you!) could make an impact by contributing!</p>
 
-<p align="center"><b>Passionate about great documentation, I co-chair documentation efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
+<p align="center"><b>I'm extremely passionate about great documentation & co-chair efforts for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects.</a></b></p>
 
 <p align="center">I've also worked with CERN on Google Season of Docs, 2020 to revamp the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! </a></p>
 

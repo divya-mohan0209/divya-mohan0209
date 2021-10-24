@@ -1,12 +1,14 @@
-<h1><b>My name is Divya Mohan</b></h1>
-
 ![Alt text](https://github.com/divya-mohan0209/divya-mohan0209/blob/master/example.gif.gif)
 
-<p>Behind every successful product adoption in the IT industry are invisible non-tech efforts; of which, I'm passionate about great documentation & contributor/end user experience. In the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
+# My name is Divya Mohan
+
+## I am a strong believer in the power of the three C's - community, collaboration, and cloud native tech.
+
+<p>I'm passionate about great documentation & contributor/end user experience. In the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
 
 <p>A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web.</p>
 
-:eyes: <b> My current focus is on development of outreach & evangelism strategies via establishment of user personas & identification of target audience in the remit of cloud native tech. with extensive technical & community building experience in client-facing & leadership roles, I aim to enable clients towards maximizing their outreach & amplification of their message in an advisory capacity.</b>
+:eyes: <b> My current focus is on development of outreach & evangelism strategies via establishment of user personas & identification of target audience in the remit of cloud native tech. With extensive technical & community building experience in client-facing & leadership roles, I aim to enable clients towards maximizing their outreach & amplification of their message in an advisory capacity.</b>
 
 ---
 ## Come, say hello! 

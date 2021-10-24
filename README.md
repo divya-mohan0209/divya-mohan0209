@@ -1,6 +1,6 @@
 <h1><b>My name is Divya Mohan</b></h1>
 
-<p><b>I believe in the power of the 3 C's - collaboration, community, and cloud native tech! </p></b>
+![Alt text](https://github.com/divya-mohan0209/divya-mohan0209/blob/master/example.gif.gif)
 
 <p>Behind every successful product adoption in the IT industry are invisible non-tech efforts; of which, I'm passionate about great documentation & contributor/end user experience. In the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider! With extensive technical & community building experience, I am excited to help people & organizations take their first steps in the cloud native open soure world!</p>
 

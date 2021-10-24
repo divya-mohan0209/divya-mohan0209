@@ -13,23 +13,17 @@
 ---
 ## Come, say hello! 
 
-<p>
-  <a href="http://twitter.com/Divya_Mohan02">
-    <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-</p>
+<a href="http://twitter.com/Divya_Mohan02">
+  <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+</a>
 
-<p>
-  <a href="http://linkedin.com/in/divya-mohan0209">
-    <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-</p>
+<a href="http://linkedin.com/in/divya-mohan0209">
+  <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
+</a>
 
-<p>
- <a href="mailto:divya.mohan0209@gmail.com">
+<a href="mailto:divya.mohan0209@gmail.com">
   <img src="https://img.shields.io/badge/divya.mohan0209@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-</p>
+</a>
 
 ---
 

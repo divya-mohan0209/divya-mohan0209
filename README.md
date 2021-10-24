@@ -1,6 +1,3 @@
- ## Profile Views :
-  <img src="https://profile-counter.glitch.me/divya-mohan0209/count.svg" />
-  
 <p><b> Hello there, I am Divya Mohan!</b></p>  
 
 <p>A seasoned IT professional & community builder, I believe open source is the way ahead & ANYONE (even, you!) could make an impact by contributing!</p>

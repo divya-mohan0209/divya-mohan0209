@@ -15,8 +15,12 @@
   <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
 </a>
 
+<a href="https://discord.gg/x3RkpGcTcG">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 <a href="http://linkedin.com/in/divya-mohan0209">
-  <img src="https://img.shields.io/badge/follow/divya-mohan0209?label=LinkedIn&logo=twitter&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:divya.mohan0209@gmail.com">

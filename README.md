@@ -24,7 +24,7 @@
 </a>
 
 <a href="mailto:divya.mohan0209@gmail.com">
-  <img src="https://img.shields.io/badge/divya.mohan0209@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 ---

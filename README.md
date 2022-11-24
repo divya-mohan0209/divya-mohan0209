@@ -2,7 +2,7 @@
 
 ## I'm excited about opportunities resulting from the confluence of open source, cloud native, and modern infrastructure. 
 
-<p>In my 9+ years of industry experience, I've worked extensively alongside students, developer communities, enterprise teams, academics, and senior ExCo members in different capacities, helping me deliver better value outcomes for them. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> and <a href="https://github.com/orgs/litmuschaos/teams/sig-documentation/members">LitmusChaos</a> projects. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
+<p>In my 9+ years of industry experience, I've worked extensively alongside students, developer communities, enterprise teams, academics, and senior ExCo members in different capacities, helping me deliver better value outcomes for them. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> project. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
 
 <p>A <a href="https://www.cncf.io/people/ambassadors/">CNCF ambassador</a> and a <a href="https://community.cncf.io/cloud-native-students/">co-organizer of the CNCF Student user group</a>, I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space and <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web. I've also co-led efforts towards creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a>.</p>
 
@@ -15,45 +15,30 @@
   <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
 </a>
 
-<a href="https://discord.gg/x3RkpGcTcG">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 
 <a href="http://linkedin.com/in/divya-mohan0209">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:divya.mohan0209@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 ---
 
-<h2> Languages 🛠
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/rust%20-%231572B6.svg?&style=for-the-badge&logo=rust&logoColor=orange">  
+<h2> Open source projects I'm currently working on </h2>
 
-</h2>
-
-<h2> Operating Systems
-<img src="https://img.shields.io/badge/linux%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white"> 
-<img src="https://img.shields.io/badge/windows%20-%2314354C.svg?&style=for-the-badge&logo=windows&logoColor=white"> 
-
-</h2>
-
-<h2> Tools & technologies
-<img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue"> 
-<img src="https://img.shields.io/badge/docusaurus%20-%2314354C.svg?&style=for-the-badge&logo=docusaurus&logoColor=white"> 
-<img src="https://img.shields.io/badge/sphinx%20-%2314354C.svg?&style=for-the-badge&logo=sphinx&logoColor=white"> 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ibm-websphere%20-%2314354C.svg?&style=for-the-badge&logo=ibm-websphere&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-weblogic%20-%2314354C.svg?&style=for-the-badge&logo=oracle-weblogic&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20-%2314354C.svg?&style=for-the-badge&logo=apache&logoColor=white">
-<img src="https://img.shields.io/badge/webassembly%20-%2314354C.svg?&style=for-the-badge&logo=webassembly&logoColor=white">
- </h2>
+- <a href="https://github.com/kubernetes">Kubernetes</a>
+  - <a href="https://github.com/kubernetes/website/">Docs</a>
+- <a href="https://github.com/rancher">Rancher</a>
+  - <a href="https://github.com/rancher/docs">Docs</a>
+  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
+- <a href="https://github.com/k3s-io/docs">K3s</a>
+  - <a href="https://github.com/k3s-io/docs">Docs</a>
+  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
+- <a href="https://github.com/kubewarden">Kubewarden</a>
+  - <a href="https://github.com/kubewarden/docs">Docs</a>
+  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
+- <a href="https://github.com/kubeslice">KubeSlice</a>
+  - Open Source Strategy
+  - Developer Relations & Community Strategy
 
 ---
 
@@ -64,27 +49,3 @@
 
 ---
 
-<h2>Testimonials</h2>
-
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://github.com/bari12">Martin Barisits, CERN</a></td>
-    <td>Ms. Mohan is a very capable and passionate software engineer, with a well-organised and dedicated work approach. She demonstrated her knowledge, skill, and intelligence in designing and building an automated documentation system which will be used for our open source project for years to come. She proved not only her technical capabilities but first and foremost her excellent communication and organisation skills. I was especially impressed by her work ethic and her ability to work independently.</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://www.linkedin.com/in/andy-kirby-1a1294146/">Andy Kirby, HSBC</a></td>
-    <td>I have worked with Divya for the last 3 years in a Production Support L1/2 --> L3 relationship. I have always found her to be technically excellent and very reliable. Divya has always shown herself to be hungry to learn new skills and take ownership.</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/anubha_v_ardhan/status/1448772881274400777?s=20">Anubhav Vardhan</a></td>
-    <td>Very informative talk by @Divya_Mohan02 about K8s Release Shadow Program at #KubeCon. Thank you</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/k_gamanji/status/1448332202463350791">Katie Gamanji, CNCF</a></td>
-    <td>It was an absolute pleasure to have worked with you on the KCNA creation, Divya!.</td>
-  </tr>
-</table>

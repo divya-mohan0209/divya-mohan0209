@@ -23,7 +23,7 @@
 
 ---
 
-<h2> Open source projects I'm currently working on </h2>
+<h2> Open source projects I'm currently working with </h2>
 
 - <a href="https://github.com/kubernetes">Kubernetes</a>
   - <a href="https://github.com/kubernetes/website/">Docs</a>

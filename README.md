@@ -36,9 +36,9 @@
 - <a href="https://github.com/kubewarden">Kubewarden</a>
   - <a href="https://github.com/kubewarden/docs">Docs</a>
   - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-- <a href="https://github.com/kubeslice">KubeSlice</a>
-  - Open Source Strategy
-  - Developer Relations & Community Strategy
+- <a href="https://opni.io">Opni</a>
+  - <a href="https://github.com/rancher/opni">Docs</a>
+  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
 
 ---
 

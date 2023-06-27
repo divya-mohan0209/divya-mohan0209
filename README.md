@@ -2,11 +2,16 @@
 
 ## I'm excited about opportunities resulting from the confluence of open source, cloud native, and modern infrastructure. 
 
-<p>In my 9+ years of industry experience, I've worked extensively alongside students, developer communities, enterprise teams, academics, and senior ExCo members in different capacities, helping me deliver better value outcomes for them. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> project. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
+<p>With a decade of industry experience, I've worked extensively alongside students, developer communities, enterprise teams, academics, and senior ExCo members in different capacities, helping me deliver better value outcomes for them. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> project. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
 
 <p>I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space, <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web, and am an editor for the <a href="https://www.cncf.io/kubeweekly/">Kubeweekly</a> and <a href="https://www.linkedin.com/newsletters/the-rancher-roundup-7016056350380109824/">The Rancher Roundup</a> newsletters. I've also co-led efforts towards creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a>.</p>
 
-:eyes: <b> My current focus is on development of outreach & evangelism strategies via establishment of user personas & identification of target audience in the remit of cloud native tech. With extensive technical & community building experience in client-facing & leadership roles, I aim to enable clients towards maximizing their outreach & amplification of their message in an advisory capacity.</b>
+:eyes: <b> I'm currently helping build communities by generating awareness among identified user personas around </b>
+
+- Cloud Native tools & technology 
+- WebAssembly
+
+With extensive technical & community building experience in client-facing & leadership roles, I aim to enable clients towards maximizing their outreach & amplification of their message in an advisory capacity.</b>
 
 ---
 ## Come, say hello! 
@@ -39,13 +44,6 @@
 - <a href="https://opni.io">Opni</a>
   - <a href="https://github.com/rancher/opni">Docs</a>
   - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divya-mohan0209&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-mohan0209&theme=tokyonight" />
-</p>
 
 ---
 

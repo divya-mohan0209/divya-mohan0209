@@ -14,7 +14,8 @@
 - Building out a global **WebAssembly** community thro' awareness, advocacy, and collaboration.
   - Cloud Native Wasm Day program committee member & co-chair
   - [WasmCon](https://events.linuxfoundation.org/wasmcon/) program committee member
-
+- :book: I'm also writing a book on Technical Writing. If you'd like to be notified when preorders go live, sign up [here](https://forms.gle/G3QktyHtasPwRFyb6).
+  
 ## Come, say hello! 
 
 I'm passionate about making tech more accessible & diverse & would ❤️ to collaborate with likeminded folks.

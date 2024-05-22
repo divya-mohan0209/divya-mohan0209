@@ -49,5 +49,9 @@ If that sounds like you, please reach out on:
   - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
 - <a href="https://github.com/bytecodealliance">WebAssembly ecosystem under Bytecode alliance</a>
   - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
+- <a href="https://github.com/chaoss">CHAOSS</a>
+  - <a href="https://github.com/chaoss/chaoss-asia">Community lead for Asian chapter of CHAOSS</a>
+  - Standardisation initiative
+  
 ---
 

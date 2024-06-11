@@ -4,11 +4,11 @@
 
 <p>With a decade of industry experience, I've worked extensively alongside academics, developer communities, enterprise teams, senior ExCo members, and students in different capacities, helping them deliver better value outcomes for their intended audience. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> project. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
 
-<p>I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space, <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web, and am an editor for the <a href="https://www.linkedin.com/newsletters/the-rancher-roundup-7016056350380109824/">The Rancher Roundup</a> newsletters. I've also co-led efforts towards creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a>.</p>
+<p>I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space, <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web, and am chief editor and curator for the <a href="https://www.linkedin.com/newsletters/the-rancher-roundup-7016056350380109824/">The Rancher Roundup</a> newsletters. I've also co-led efforts toward the creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a> and helped with the review of the <a href="https://www.cncf.io/training/certification/kcsa/">Kubernetes and Cloud Native Security Associate Certification Examination</a>.</p>
 
 ## :eyes: Currently, these are the things I'm focusing on:
 
-- Standardizing metrics and metric models around OSS health with [ISO](https://iso.org) and [CHAOSS project](https://chaoss.community).
+- Standardizing metrics and metric models around OSS health, governance, sustainability, and viability with [ISO](https://iso.org) and [CHAOSS project](https://chaoss.community).
 - Enabling & developing **tech & open source** scenes in **MENA, APAC & ANZ regions**, especially **India**.
   - Leading the [Asian chapter](https://github.com/chaoss/chaoss-asia/) for the [CHAOSS project](https://chaoss.community).
   - Co-organizer of Kubernetes Community Days, Mumbai 2023 & Kubernetes Community Days, MENA 2022
@@ -18,7 +18,9 @@
   - Cloud Native Wasm Day program committee member & co-chair
   - [WasmCon](https://events.linuxfoundation.org/wasmcon/) program committee member
 - :book: I'm also writing a book on Technical Writing. If you'd like to be notified when preorders go live, sign up [here](https://forms.gle/G3QktyHtasPwRFyb6).
-  
+- 📃 Co-chair for the [Kubernetes documentation](https://kubernetes.io)
+
+
 ## Come, say hello! 
 
 I'm passionate about making tech more accessible & diverse & would ❤️ to collaborate with likeminded folks.

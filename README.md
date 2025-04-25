@@ -17,7 +17,6 @@
   - [SIG Community co-chair](https://github.com/bytecodealliance/governance/tree/main/SIGs/SIG-community) for [Bytecode Alliance](https://github.com/bytecodealliance/)
   - Cloud Native Wasm Day program committee member & co-chair
   - [WasmCon](https://events.linuxfoundation.org/wasmcon/) program committee member
-- :book: I'm also writing a book on Technical Writing. If you'd like to be notified when preorders go live, sign up [here](https://forms.gle/G3QktyHtasPwRFyb6).
 - 📃 Co-chair for the [Kubernetes documentation](https://kubernetes.io)
 
 

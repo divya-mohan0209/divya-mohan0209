@@ -28,15 +28,9 @@ I’m available for [consulting and advisory opportunities](https://www.divyamoh
 
 If that sounds like you, please reach out on: 
 
-<a href="http://twitter.com/Divya_Mohan02">
-  <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-</a>
-
-
 <a href="http://linkedin.com/in/divya-mohan0209">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 ---
 

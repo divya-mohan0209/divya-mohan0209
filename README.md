@@ -1,7 +1,5 @@
 # 👋 My name is Divya Mohan
 
-## 🤩 I'm excited about opportunities arising from the confluence of WebAssembly, AI, and Cloud Native tech in the OSS ecosystem
-
 <p>With a decade of industry experience, I've worked extensively alongside academics, developer communities, enterprise teams, senior ExCo members, and students in different capacities, helping them deliver better value outcomes for their intended audience. Passionate about great documentation & contributor/end user experience in the cloud native open source ecosystem, I co-chair documentation for the <a href=https://github.com/kubernetes/community/tree/master/sig-docs#chairs> Kubernetes</a> project. I've also worked with <a href="https://home.cern/">CERN</a> on <a href="https://github.com/divya-mohan0209/Google-Season-of-Docs-2020">Google Season of Docs, 2020</a> to automate & create the <a href="http://rucio.cern.ch/documentation/">documentation</a> for <a href="https://rucio.cern.ch/">Rucio</a>, a data management system powering the Large Hadron Collider.</p>
 
 <p>I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space, <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web, and am chief editor and curator for the <a href="https://www.linkedin.com/newsletters/the-rancher-roundup-7016056350380109824/">The Rancher Roundup</a> newsletters. I've also co-led efforts toward the creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a> and helped with the review of the <a href="https://www.cncf.io/training/certification/kcsa/">Kubernetes and Cloud Native Security Associate Certification Examination</a>.</p>
@@ -20,9 +18,13 @@
 - 📃 Co-chair for the [Kubernetes documentation](https://kubernetes.io)
 
 
-## Come, say hello! 
+## Work with me
 
-I'm passionate about making tech more accessible & diverse & would ❤️ to collaborate with likeminded folks.
+I’m available for [consulting and advisory opportunities](https://www.divyamohan.com/work-with-me/) in the areas of 
+
+- program management,
+- developer relations, and
+- technical community, documentation, and marketing strategy. 
 
 If that sounds like you, please reach out on: 
 
